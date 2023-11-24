@@ -1,0 +1,2 @@
+# excellentlcDjango
+i have finished
